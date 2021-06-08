@@ -1,3 +1,3 @@
 #Readme Python Lesson
-Author: Alena Steinert
+Author: L. Alena Steinert
 
